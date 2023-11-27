@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying at **Brunel University London**
 
-- 🌱 I’m currently learning **Android Development with Java**
+- 🌱 I’m currently learning **Android Development with Kotlin**
 
 - 📫 How to reach me **atharvavc04@gmail.com**
 
