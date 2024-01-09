@@ -2,7 +2,7 @@
 <h3 align="center">First Year Computer Science Student</h3>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently using **Brunel University London**
+- 🔭 I’m currently studying at **Brunel University London**
 
 - 🌱 I’m currently using **Python and Java**
 
