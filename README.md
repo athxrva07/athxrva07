@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android Development with Kotlin**
 
-- 📫 How to reach me **atharvavc04@gmail.com**
+- 📫 How to reach me: **atharvavc04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
