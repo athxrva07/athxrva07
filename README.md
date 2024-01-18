@@ -18,5 +18,3 @@
 
 
 
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=athxrva07&theme=synthwave&hide_border=true)<br/>
