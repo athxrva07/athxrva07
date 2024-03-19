@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva</h1>
-<h3 align="center">First year Computer Science student</h3>
+<h3 align="center">First year Computer Science student. Currently using Java and Python, and learning MERN Stack.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
