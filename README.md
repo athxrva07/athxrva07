@@ -1,4 +1,5 @@
-<h3 align="center">First year Computer Science student. Currently using Java and Python, and learning MERN Stack.</h3>
+<h3 align="center">First year Computer Science student.</h3>
+<h2 align="center">Currently using Java and Python, and learning MERN Stack.</h2>
 
 
 <h3 align="left">Connect with me:</h3>
