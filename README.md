@@ -1,5 +1,5 @@
 <h3 align="center">Second year computer science student.</h3>
-<h2 align="center">Incoming Software Engineer at Elanco. Currently using Java and Python, and learning MERN Stack.</h2>
+<h4 align="center">Incoming Software Engineer at Elanco. Currently using Java and Python, and learning MERN Stack.</h4>
 
 
 <h3 align="left">Connect with me:</h3>
